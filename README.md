@@ -21,3 +21,16 @@ KidsPlay is an engaging app designed for children. It offers a fun and interacti
 - **Firebase Performance Monitoring**: To monitor the performance of the app in real time.
 - **Lottie Animations**: To show animated pictures of animals and objects.
 
+## Screenshots
+Below are some of the screenshots of the app:
+
+| Screen                                | Screenshot                                           |
+|---------------------------------------|------------------------------------------------------|
+| **Splash Screen**                     | ![Splash Screen](readme/splash_screen.png)    |
+| **Home Page**                         | ![Home Page](readme/home_page.png)            |
+| **Menu Page**                         | ![Menu Page](readme/menu_page.png)            |
+| **Number Level Page**                 | ![Number Level Page](readme/number_level_page.png) |
+| **Animal Level Page**                 | ![Animal Level Page](readme/animal_level_page.png) |
+| **Alphabet Level Page**               | ![Alphabet Level Page](readme/alphabet_level_page.png) |
+| **Category Completed Successfully Page** | ![Category Completed Successfully Page](readme/category_completed_page.png) |
+
