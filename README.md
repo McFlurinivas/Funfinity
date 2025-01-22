@@ -26,11 +26,11 @@ Below are some of the screenshots of the app:
 
 | Screen                                | Screenshot                                           |
 |---------------------------------------|------------------------------------------------------|
-| **Splash Screen**                     | ![Splash Screen](readme/splash_screen.jpg)    |
-| **Home Page**                         | ![Home Page](readme/home_page.jpg)            |
-| **Menu Page**                         | ![Menu Page](readme/menu_page.jpg)            |
-| **Number Level Page**                 | ![Number Level Page](readme/number_level_page.jpg) |
-| **Animal Level Page**                 | ![Animal Level Page](readme/animal_level_page.jpg) |
-| **Alphabet Level Page**               | ![Alphabet Level Page](readme/alphabet_level_page.jpg) |
-| **Category Completed Successfully Page** | ![Category Completed Successfully Page](readme/category_completed_page.jpg) |
+| **Splash Screen**                     | <img src="readme/splash_screen.jpg" alt="Splash Screen" width="200" height="400">    |
+| **Home Page**                         | <img src="readme/home_page.jpg" alt="Home Page" width="200" height="400">            |
+| **Menu Page**                         | <img src="readme/menu_page.jpg" alt="Menu Page" width="200" height="400">            |
+| **Number Level Page**                 | <img src="readme/number_level_page.jpg" alt="Number Level Page" width="200" height="400"> |
+| **Animal Level Page**                 | <img src="readme/animal_level_page.jpg" alt="Animal Level Page" width="200" height="400"> |
+| **Alphabet Level Page**               | <img src="readme/alphabet_level_page.jpg" alt="Alphabet Level Page" width="200" height="400"> |
+| **Category Completed Successfully Page** | <img src="readme/category_completed_page.jpg" alt="Category Completed Successfully Page" width="200" height="400"> |
 
