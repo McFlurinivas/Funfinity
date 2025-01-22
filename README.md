@@ -3,7 +3,7 @@ KidsPlay is an engaging app designed for children. It offers a fun and interacti
 
 ## Project Overview and APK Download
 
-For a detailed project overview, please refer to the following document: [Project Overview](https://drive.google.com/file/d/1E1cf3zbOBlKrB8UJd0mYd8BqGURZX3c4/view?usp=sharing).
+For a detailed project overview, please refer to the following video: [Project Overview](https://drive.google.com/file/d/1E1cf3zbOBlKrB8UJd0mYd8BqGURZX3c4/view?usp=sharing).
 
 To download the APK, use the following link: [APK Download](https://drive.google.com/file/d/1Iq05eZN8b6Npda7qYZUdopUUVY_92NUS/view?usp=sharing). Note that some levels and categories are yet to be added.
 
