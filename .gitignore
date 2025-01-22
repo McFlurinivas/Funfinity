@@ -31,7 +31,7 @@ migrate_working_dir/
 .pub/
 /build/
 firebase.json
-
+**/android/app/google-services.json
 # Symbolication related
 app.*.symbols
 
