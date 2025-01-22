@@ -1,6 +1,12 @@
 # kidsplay
 KidsPlay is an engaging app designed for children. It offers a fun and interactive environment for learning and playing through educational games and activities. It aims to enhance cognitive skills, creativity, and learning in a playful way. KidsPlay is a fun and interactive kids game designed to help children learn through engaging animations and challenges. The game features categories like animal recognition, number equations, and object recognition using alphabets. New categories and levels can be added dynamically in future updates.
 
+## Project Overview and APK Download
+
+For a detailed project overview, please refer to the following document: [Project Overview](https://drive.google.com/file/d/1E1cf3zbOBlKrB8UJd0mYd8BqGURZX3c4/view?usp=sharing).
+
+To download the APK, use the following link: [APK Download](https://drive.google.com/file/d/1Iq05eZN8b6Npda7qYZUdopUUVY_92NUS/view?usp=sharing). Note that some levels and categories are yet to be added.
+
 ## Features
 - **Interactive Animations and Elements**: Fun and engaging animations, music, vibration and sound effects to help kids learn interactively.
 - **Categories**:
